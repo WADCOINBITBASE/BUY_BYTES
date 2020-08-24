@@ -1,5 +1,5 @@
-# WadCoin/FHe mBit
+Coin/FHe mBit
 
 
-FHe $m
+FHe mPIMP
 
